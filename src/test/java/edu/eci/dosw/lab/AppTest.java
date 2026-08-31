@@ -1,4 +1,4 @@
-package edu.eci.dosw;
+package edu.eci.dosw.lab;
 
 import static org.junit.Assert.assertTrue;
 
