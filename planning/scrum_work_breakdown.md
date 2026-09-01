@@ -65,3 +65,9 @@
 2. Generate the tournament ID.
 
 3. Validate that the ID is unique.
+
+### Planning Poker
+
+The following video shows the Planning Poker estimation process for the first user story:
+
+[Watch the Planning Poker estimation video](https://youtu.be/sh3EqyW1-6U?si=7yqdscgyiYpXFik9)
