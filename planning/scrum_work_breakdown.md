@@ -71,3 +71,12 @@
 The following video shows the Planning Poker estimation process for the first user story:
 
 [Watch the Planning Poker estimation video](https://youtu.be/sh3EqyW1-6U?si=7yqdscgyiYpXFik9)
+
+## Planning Poker – Story Point Estimates
+
+| # | User Story                                       | Story Points |
+| - | ------------------------------------------------ | -----------: |
+| 1 | Specify the basic information about a tournament |        **7** |
+| 2 | Automatically assign a tournament ID             |        **4** |
+| 3 | Outline the tournament rules                     |        **4** |
+| 4 | Set an entry fee                                 |        **6** |
