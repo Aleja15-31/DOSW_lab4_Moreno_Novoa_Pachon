@@ -62,7 +62,8 @@ The implementation of TechCup's identified requirements is broken down as follow
 
 ![Task 4.3. creation in Jira](../images/userStory4task3.png)
 
-### 4. Schedule:
+### 4. Schedule 🗓️:
 
+![Initial timeline in Jira](../images/timeline.png)
 
 ### 5. Sprint Backlog:
