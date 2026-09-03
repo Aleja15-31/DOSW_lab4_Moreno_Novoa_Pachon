@@ -1,0 +1,92 @@
+## Epic ```Jira Id = SCRUM-5```
+
+<mark>Tournament creation</mark>
+
+## User Stories 
+
+### User Story 1️⃣ ```Jira Id = SCRUM-6```
+
+**As an** organizer
+
+**I want to** specify the basic information about a tournament
+
+**To** inform users about the details of the tournament
+
+### Tasks
+
+1. Create a field to store the tournament name. ```Jira Id = SCRUM-10```
+
+2. Create a field to store the start date. ```Jira Id = SCRUM-11```
+
+3. Create a field to store the end date. ```Jira Id = SCRUM-12```
+
+---
+
+### User Story 2️⃣ ```Jira Id = SCRUM-7```
+
+**As an** organizer
+
+**I want to** set an entry fee
+
+**So** that teams know how much they need to pay to participate
+
+### Tasks
+
+1. Create a field to store the registration fee. ```Jira Id = SCRUM-13```
+
+2. Populate the payment report. ```Jira Id = SCRUM-14```
+
+3. Validate the payment once it has been made. ```Jira Id = SCRUM-15```
+
+---
+
+### User Story 3️⃣ ```Jira Id = SCRUM-8```
+
+**As an** organizer
+
+**I want to** outline the tournament rules
+
+**So** that teams know the conditions under which they can participate
+
+### Tasks
+
+1. Create a field to store the maximum number of teams. ```Jira Id = SCRUM-16```
+
+2. Create a field to store the elimination type. ```Jira Id = SCRUM-17```
+
+3. Visually display the rules to be followed. ```Jira Id = SCRUM-18```
+
+---
+
+### User Story 4️⃣ ```Jira Id = SCRUM-9```
+
+**As an** organizer
+
+**I want to** automatically assign a tournament ID
+
+**To** correctly identify the tournament in a database
+
+### Tasks
+
+1. Create a field to store the tournament ID. ```Jira Id = SCRUM-19```
+
+2. Generate the tournament ID. ```Jira Id = SCRUM-20```
+
+3. Validate that the ID is unique. ```Jira Id = SCRUM-21```
+---
+
+### Planning Poker
+
+The following video shows the Planning Poker estimation process for the first user story:
+
+[Watch the Planning Poker estimation video](https://youtu.be/sh3EqyW1-6U?si=7yqdscgyiYpXFik9)
+
+## Planning Poker – Story Point Estimates
+
+| # | User Story                                       | Story Points |
+| - | ------------------------------------------------ | -----------: |
+| 1 | Specify the basic information about a tournament |        **7** |
+| 2 | Automatically assign a tournament ID             |        **4** |
+| 3 | Outline the tournament rules                     |        **4** |
+| 4 | Set an entry fee                                 |        **6** |
+
