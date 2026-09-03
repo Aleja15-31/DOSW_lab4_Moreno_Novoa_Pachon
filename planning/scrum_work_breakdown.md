@@ -1,8 +1,10 @@
-# Epic
+## Epic ```Jira Id = SCRUM-5```
 
 <mark>Tournament creation</mark>
 
-## User Stories
+## User Stories 
+
+### User Story 1️⃣ ```Jira Id = SCRUM-6```
 
 **As an** organizer
 
@@ -12,13 +14,15 @@
 
 ### Tasks
 
-1. Create a field to store the tournament name.
+1. Create a field to store the tournament name. ```Jira Id = SCRUM-10```
 
-2. Create a field to store the start date. 
+2. Create a field to store the start date. ```Jira Id = SCRUM-11```
 
-3. Create a field to store the end date.
+3. Create a field to store the end date. ```Jira Id = SCRUM-12```
 
 ---
+
+### User Story 2️⃣ ```Jira Id = SCRUM-7```
 
 **As an** organizer
 
@@ -28,13 +32,15 @@
 
 ### Tasks
 
-1. Create a field to store the registration fee.
+1. Create a field to store the registration fee. ```Jira Id = SCRUM-13```
 
-2. Populate the payment report.
+2. Populate the payment report. ```Jira Id = SCRUM-14```
 
-3. Validate the payment once it has been made.
+3. Validate the payment once it has been made. ```Jira Id = SCRUM-15```
 
 ---
+
+### User Story 3️⃣ ```Jira Id = SCRUM-8```
 
 **As an** organizer
 
@@ -44,13 +50,15 @@
 
 ### Tasks
 
-1. Create a field to store the maximum number of teams.
+1. Create a field to store the maximum number of teams. ```Jira Id = SCRUM-16```
 
-2. Create a field to store the elimination type.
+2. Create a field to store the elimination type. ```Jira Id = SCRUM-17```
 
-3. Visually display the rules to be followed.
+3. Visually display the rules to be followed. ```Jira Id = SCRUM-18```
 
 ---
+
+### User Story 4️⃣ ```Jira Id = SCRUM-9```
 
 **As an** organizer
 
@@ -60,8 +68,8 @@
 
 ### Tasks
 
-1. Create a field to store the tournament ID.
+1. Create a field to store the tournament ID. ```Jira Id = SCRUM-19```
 
-2. Generate the tournament ID.
+2. Generate the tournament ID. ```Jira Id = SCRUM-20```
 
-3. Validate that the ID is unique.
+3. Validate that the ID is unique. ```Jira Id = SCRUM-21```
