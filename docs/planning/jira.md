@@ -72,7 +72,7 @@ The implementation of TechCup's identified requirements is broken down as follow
 
 ### User Story 1 - Specify the basic information of a tournament
 
-![User Story 1 - Sprint Backlog](./images/story-1_Sprint1.png)
+![User Story 1 - Sprint Backlog](../images/story-1_Sprint1.png)
 
 We selected User Story 1 for Sprint 1 because it is a fundamental part of the tournament creation process. The tournament needs basic information such as its name, start date, and end date before users can properly identify and understand the tournament.
 
@@ -84,7 +84,7 @@ This distribution allows the work to be divided evenly and gives each team membe
 
 ### User Story 3 - Define the tournament rules
 
-![User Story 3 - Sprint Backlog](./images/story-3_Sprint1.png)
+![User Story 3 - Sprint Backlog](../images/story-3_Sprint1.png)
 
 We selected User Story 3 for Sprint 1 because defining the tournament rules is also an important part of creating a tournament. These rules allow the organizer to establish important aspects such as the maximum number of teams and the elimination format.
 
