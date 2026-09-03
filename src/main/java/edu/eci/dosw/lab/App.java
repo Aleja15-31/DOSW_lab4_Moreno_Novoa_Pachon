@@ -1,4 +1,4 @@
-package edu.eci.dosw;
+package edu.eci.dosw.lab;
 
 /**
  * Hello world!
